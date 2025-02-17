@@ -28,10 +28,10 @@
         android:textColorLink="#FF03DAC5"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.493"
+        app:layout_constraintHorizontal_bias="0.592"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/editTextRegEmail"
-        app:layout_constraintVertical_bias="0.457" />
+        app:layout_constraintVertical_bias="0.344" />
 
     <EditText
         android:id="@+id/editTextRegConfirmPassword"
@@ -106,10 +106,10 @@
         android:textColorLink="#FF03DAC5"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.493"
+        app:layout_constraintHorizontal_bias="0.592"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView2"
-        app:layout_constraintVertical_bias="0.09" />
+        app:layout_constraintVertical_bias="0.022" />
 
     <EditText
         android:id="@+id/editTextRegEmail"
@@ -132,10 +132,10 @@
         android:textColorLink="#FF03DAC5"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.493"
+        app:layout_constraintHorizontal_bias="0.592"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/editTextRegUsername"
-        app:layout_constraintVertical_bias="0.0" />
+        app:layout_constraintVertical_bias="0.05" />
 
     <Button
         android:id="@+id/buttonRegister"
